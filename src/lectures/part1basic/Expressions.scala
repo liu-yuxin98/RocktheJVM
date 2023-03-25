@@ -41,6 +41,6 @@ object Expressions extends App{
     if (someValue) 239 else 985
     67
   }
-
+  println(someOtherValue)
 
 }
